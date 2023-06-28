@@ -1,6 +1,6 @@
 # 穿つ
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Shinnosuke-Hara)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Shinnosuke-Hara&title=Commit,Issues,Repositories,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
